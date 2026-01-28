@@ -1,4 +1,4 @@
-- Projet DQN - Resolution de CartPole-v1
+## Projet DQN - Resolution de CartPole-v1
 Description
 Implementation complete d'un agent Deep Q-Network (DQN) pour resoudre l'environnement CartPole-v1 de Gymnasium. Ce projet demontre l'application de l'apprentissage par renforcement profond a un probleme de controle classique.
 
